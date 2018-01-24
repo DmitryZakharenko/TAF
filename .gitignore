@@ -1,0 +1,7 @@
+#IDEA files
+.idea
+
+#Gradle
+gradle
+build
+.gradle
